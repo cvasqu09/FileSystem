@@ -1,0 +1,25 @@
+mkdir GettingStarted
+mkdir WorkingWithStrings
+cd /GettingStarted
+mkdir bin
+mkdir obj
+touch main.c
+touch exercises.c
+cd /GettingStarted/bin
+mkdir Debug
+cd Debug
+touch exercises.exe
+cd /GettingStarted
+ls
+find exercises
+cd /WorkingWithStrings
+mkdir bin
+mkdir obj
+touch main.c
+touch chap1_exer
+cd bin
+mkdir Debug
+cd /GettingStarted
+ls /WorkingWithStrings
+find main.c
+find exer

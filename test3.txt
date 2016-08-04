@@ -1,0 +1,19 @@
+mkdir Books
+cd /Books
+mkdir CBooks
+cd CBooks
+touch Algorithms_in_C
+touch C_Programming
+touch The_C_Language
+cd /Books
+mkdir MathBooks
+cd MathBooks
+touch Cal1
+touch Cal2
+touch Cal3
+cd /Books
+find Cal
+find C
+rm MathBooks
+rm -f MathBooks
+find Cal
